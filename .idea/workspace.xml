@@ -4,33 +4,170 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7523cea8-0986-4340-9cf1-26c487948feb" name="Changes" comment="" />
+    <list default="true" id="7523cea8-0986-4340-9cf1-26c487948feb" name="Changes" comment="Test Tribe API automation Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.properties" beforeDir="false" afterPath="$PROJECT_DIR$/environment.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/TestSuites/SmokeSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/TestSuites/SmokeSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/testdata/testdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/testdata/testdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/StatusCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/StatusCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/postReqExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/postReqExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JsonReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/JsonReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PropertyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/SoftAssertioniUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/SoftAssertioniUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/usermanagement/GetUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/usermanagement/GetUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/usermanagement/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/usermanagement/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/usermanagement/PostUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/usermanagement/PostUsers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2eXqKseVs1Qne53WOsHVVA8O5OF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.GetUsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.getPaypalUserData.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.getUserData.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.testEndpoint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateDataFromPropertiesFile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateFromProperties_TestdataFile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateResponseBody.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateResponseHasItems.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateResponseHasSize.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetUsers.validateWithTestDataFromJson.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostUsers.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.PostUsers">
+    <configuration name="GetUsers.getPaypalUserData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestTribe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usermanagement" />
+      <option name="MAIN_CLASS_NAME" value="usermanagement.GetUsers" />
+      <option name="METHOD_NAME" value="getPaypalUserData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsers.testEndpoint" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestTribe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="usermanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usermanagement" />
+      <option name="MAIN_CLASS_NAME" value="usermanagement.GetUsers" />
+      <option name="METHOD_NAME" value="testEndpoint" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsers.validateDataFromPropertiesFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestTribe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usermanagement" />
+      <option name="MAIN_CLASS_NAME" value="usermanagement.GetUsers" />
+      <option name="METHOD_NAME" value="validateDataFromPropertiesFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsers.validateFromProperties_TestdataFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestTribe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usermanagement" />
+      <option name="MAIN_CLASS_NAME" value="usermanagement.GetUsers" />
+      <option name="METHOD_NAME" value="validateFromProperties_TestdataFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostUsers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestTribe1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="usermanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usermanagement" />
+      <option name="MAIN_CLASS_NAME" value="usermanagement.PostUsers" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PostUsers" />
+        <item itemvalue="TestNG.GetUsers.testEndpoint" />
+        <item itemvalue="TestNG.GetUsers.validateFromProperties_TestdataFile" />
+        <item itemvalue="TestNG.GetUsers.getPaypalUserData" />
+        <item itemvalue="TestNG.GetUsers.validateDataFromPropertiesFile" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,5 +185,20 @@
       <updated>1712061215525</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Tribe API automation Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Tribe API automation Project" />
   </component>
 </project>

@@ -1,2 +1,7 @@
-package usermanagement;public class HelloWorld {
+package usermanagement;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
